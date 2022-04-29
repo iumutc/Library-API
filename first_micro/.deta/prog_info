@@ -1,0 +1,1 @@
+{"id":"545b94b1-45c8-4b2d-b658-57abde9edbb8","space":22077,"runtime":"python3.9","name":"first_micro","path":"of8zgp","project":"a0vtygqa","account":"144798365827","region":"eu-central-1","deps":["fastapi-crudrouter","pydantic","fastapi","uvicorn"],"envs":null,"public":true,"log_level":"debug","cron":""}
